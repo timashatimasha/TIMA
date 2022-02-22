@@ -1,12 +1,12 @@
 {
-    "name": "⎝🛡️ ALPHA 🛡️⎠ WhatsApp User Bot v4.0.0",
-    "description": "World best Sinhala/English WhatsApp Button Bot Developer Achi Fernando Enjoy Our Bot",
-    "logo": "https://telegra.ph/file/cd6032c65c27e0510ddad.jpg",
-    "keywords": ["Achi Bro lk | PG", "ALPHA"],
+    "name": "QUEEN ALEXA WhatsApp User Bot v4.0.0",
+    "description": "World best Sinhala/English WhatsApp Button Bot Developer Timasha Enjoy Our Bot",
+    
+    "keywords": ["Timasha | LB", "QUEEN ALEXA "],
     "stack": "container",
     "env": {
-      "ALPHA_SESSION": {
-            "description": "Paste your QR session that you got from https://replit.com/@CTBOT/Alpha-Qr?v=1. ඇල්ෆා qr කේතය යොදන්න.",
+      "QUEEN ALEXA _SESSION": {
+            "description": "Paste your QR session that you got from QUEEN ALEXA  qr කේතය යොදන්න.",
             "required": true
         },
         "BUTTON_CMD": {
